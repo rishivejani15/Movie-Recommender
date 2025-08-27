@@ -1,0 +1,4 @@
+# Task2_ML/requirements.txt
+pandas
+scikit-learn
+streamlit
