@@ -2,12 +2,6 @@
 
 This project is a simple yet effective movie recommendation system built using a content-based filtering approach on the "IMDB Dataset of Top 1000 Movies and TV Shows". It features a web interface created with Streamlit where users can select a movie and get a list of similar movie recommendations.
 
-![Demo Screenshot](https://i.imgur.com/example-screenshot.png) ## 🚀 Deployed Demo
-
-*(Optional: Add your deployment link here after deploying)*
-- **Streamlit Cloud:** [your-app-url.streamlit.app](https://your-app-url.streamlit.app)
-- **Hugging Face Spaces:** [huggingface.co/spaces/your-username/your-repo](https://huggingface.co/spaces/your-username/your-repo)
-
 ## ✨ Features
 
 - **Content-Based Filtering:** Recommends movies based on their inherent features (genre, director, cast, plot overview).
@@ -53,5 +47,5 @@ Follow these steps to set up and run the project locally.
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/Task2_ML.git](https://github.com/your-username/Task2_ML.git)
-cd Task2_ML
+git clone [https://github.com/rishivejani15/csi-task-aiml.git](https://github.com/rishivejani15/csi-task-aiml.git)
+cd csi-task-aiml
