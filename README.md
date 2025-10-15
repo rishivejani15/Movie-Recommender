@@ -1,4 +1,4 @@
-# Task 2 - IMDB Movie Recommendation System
+# IMDB Movie Recommendation System
 
 This project is a simple yet effective movie recommendation system built using a content-based filtering approach on the "IMDB Dataset of Top 1000 Movies and TV Shows". It features a web interface created with Streamlit where users can select a movie and get a list of similar movie recommendations.
 
